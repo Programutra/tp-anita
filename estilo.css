@@ -1,0 +1,40 @@
+html {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+
+body {
+    background: #ffeeaa;
+}
+
+
+header {
+    background:#FFF300 ;
+    height:300px ;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px dashed black;
+}
+
+ul {
+    background: #B6B6B6 ;
+    height: 50px;
+    border-bottom: 1px solid black;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px ;
+    }
+
+
+
+table {
+    float: left;
+    margin: auto;
+    min-height: 500px ;
+    width: 100%;
+    text-align: center;
+}
